@@ -8,7 +8,7 @@ These are the current supported versions, most of the time the latest one is the
 | ------- | ------------------ |
 | opensourcereleaselatest (supported until new version)   | :white_check_mark: |
 | Extra support opensourcerelease_LTS_version (supported for 1 year)   | :white_check_mark:               |
-| Past extra support period opensourcerelease_ExtendedLTS_version (if the version is very popular it will get updates) (supported for 2 years)   | :white_check_mark: |
+| Past extra support period opensourcerelease_ExtendedLTS_version (Only in some cases)  (Gets support for another year)   | :white_check_mark: |
 | opensourcereleasedeprecated (No security updates, recommended to switch to past extra support or extra support or latest)   | :x:                |
 
 ## Reporting a Vulnerability
