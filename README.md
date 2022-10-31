@@ -14,3 +14,7 @@ So, free software means that the source is avaiable but the users freedoms are a
 Sadly, I can't change the repo name as it can not be changed once it is created.
 Notes:
 Due to Roblox being non free software, it is impossiable to decompile the game without opening studio, however you may view all the scripts and models inside of studio, which give you the code for the scripts and game, and all these games in this repo are licensed under the GPL.
+The meeting game under extended LTS is v1.0, LTS is stable versions, latest is bleeding edge.
+Latest usally contains stable versions. They will eventually be moved to LTS and Extended LTS. LTS has very stable, but more outdated versions, Extended LTS is very very stable and it is where stable releases will be moved. For supported projects it is always latest and is stable. If you want a long term solution, you will want to use extended LTS first as it is easier to upgrade from version to version. LTS is recommended, but you may have to migrate more. Latest will have more trouble migrating.
+
+The meeting game is currently under Extended LTS support, and will be supported until 2024, and v2 is under latest, and once V3 releases it will be moved to LTS.
