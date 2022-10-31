@@ -18,3 +18,5 @@ The meeting game under extended LTS is v1.0, LTS is stable versions, latest is b
 Latest usally contains stable versions. They will eventually be moved to LTS and Extended LTS. LTS has very stable, but more outdated versions, Extended LTS is very very stable and it is where stable releases will be moved. For supported projects it is always latest and is stable. If you want a long term solution, you will want to use extended LTS first as it is easier to upgrade from version to version. LTS is recommended, but you may have to migrate more. Latest will have more trouble migrating.
 
 The meeting game is currently under Extended LTS support, and will be supported until 2024, and v2 is under latest, and once V3 releases it will be moved to LTS.
+
+Releases are provided, however cloning the repo is better as you can update faster.
