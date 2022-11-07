@@ -20,3 +20,6 @@ Latest usally contains stable versions. They will eventually be moved to LTS and
 The meeting game is currently under Extended LTS support, and will be supported until 2024, and v2 is under latest, and once V3 releases it will be moved to LTS.
 
 Releases are provided, however cloning the repo is better as you can update faster.
+
+
+Once WIP Core Game [V1] enters this repo, it will be licensed undet the MIT License.
