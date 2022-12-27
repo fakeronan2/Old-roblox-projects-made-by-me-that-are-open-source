@@ -23,3 +23,10 @@ Releases are provided, however cloning the repo is better as you can update fast
 
 
 Once WIP Core Game [V1] enters this repo, it will be licensed undet the MIT License.
+
+# Language information
+The RBXL files in this game contain the scripts uncompiled. Effectivly it is the source for the game that is played in the client as when you play it is compiled. You can export the scripts into Lua files and the models also into the format Roblox uses for models.
+
+Every game in this is scripted in Luau a language that is like Lua but has some differences but is mostly compatable and easy to figure out for existing Lua programmers.
+
+Think Luau like C++. It is easy to figure out for existing users, with some benefits. Luau users can easily figure out Lua.
